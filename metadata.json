@@ -1,0 +1,6 @@
+{
+  "name": "AegisOps - Autonomous Multi-Agent Command Center",
+  "description": "Executive autonomous multi-agent orchestrator for business owners. Decomposes natural language directives into DAG workflows, delegates to specialized agents (Sales, Finance, Helpline & Loyalty, Security, HITL), automates reminders, and enforces governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
